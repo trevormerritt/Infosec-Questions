@@ -116,8 +116,7 @@ A code of ethics is important because it clearly lays out the rules for behavior
 
 ### 17. Are open-source projects more or less secure than proprietary ones?
 
-Proprietary software is more secure than open-source software. This myth comes from many prejudices. But a commercial license doesn't assure security. Unlike proprietary software, open-source software is transparent about potential vulnerabilities.
-
+Open Source software is generally more secure then closed source software.  With open source software, all parties, regardless of their financial interest, are able to review and audit the code.  With closed source, there is no option to audit the software.  With Open Source Software, the culture generally accepts and encourages research and development.  Closed source software generally is driven by commercial interests.  These commercial interests often collide with user rights and interests.  Closed source software depends on the concept of 'security through obscurity' where problems are hidden.  Open Source Software is the opposite in that issues are brought to light, and resolved.
 
 ### 18. Who do you look up to within the field of Information Security? Why?
 
